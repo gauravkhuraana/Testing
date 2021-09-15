@@ -4,14 +4,14 @@ For sharing testing related stuff at one place
 ## Table of Contents
 
 * [Testing Tips](#Testing-Tips)
-* [3 Free Tools for screenshots](#3-Free--screenshots)
+* [Three Free Tools for screenshots](#Three--screenshots)
 
 
 ## Testing Tips 
 ### A series to learn a lot about testing - bit.ly/testing_tips
 [![Testing Tips from Testers](https://i.ytimg.com/vi/BtpHIuT1-gI/0.jpg)](https://www.youtube.com/watch?v=BtpHIuT1-gI)
 
-## 3 Free Tools for screenshots
+## Three Free Tools for screenshots
 ### Screenshots / video recording tools - bit.ly/ss_tools
 
 ### bit.ly/ss_tool1 - Small , simpler , less features , learn in 5 minutes
