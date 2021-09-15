@@ -4,7 +4,7 @@ For sharing testing related stuff at one place
 ## Table of Contents
 
 * [Testing Tips](#testing-tips)
-* [Free Screenshots Tools](#free--tools)
+* [Free Screenshots Tools](#free-screenshots-tools)
 
 All are mostly videos links. Click on them to watch the video. Shortcuts are listed to remember them
 
