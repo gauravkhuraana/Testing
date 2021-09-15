@@ -3,16 +3,18 @@ For sharing testing related stuff at one place
 
 ## Table of Contents
 
-* [Testing Tips](#Testing-Tips)
-* [Free Screenshots Tools](#Free--Tools)
+* [Testing Tips](#testing-tips)
+* [Free Screenshots Tools](#free--tools)
 
 All are mostly videos links. Click on them to watch the video. Shortcuts are listed to remember them
 
 ## Testing Tips 
+
 ### A series to learn a lot about testing - bit.ly/testing_tips
 [![Testing Tips from Testers](https://i.ytimg.com/vi/BtpHIuT1-gI/0.jpg)](https://www.youtube.com/watch?v=BtpHIuT1-gI)
 
 ## Free Screenshots Tools
+
 ### Screenshots / video recording tools - bit.ly/ss_tools
 
 ### bit.ly/ss_tool1 - Small , simpler , less features , learn in 5 minutes
