@@ -2,11 +2,14 @@
 
 #### Tester's Tips for Bugs in Testing
 
+[click this if you prefer HTML way and it will look better](https://htmlpreview.github.io/?https://raw.githubusercontent.com/gauravkhuraana/Testing/main/Bugs/Bugs.html)
+
 ![Bugs Mindmap](./Bugs.png "Bugs Mindmap ")
 
-<hr>
+### What testers think about bugs - bit.ly/testing_bugs
+[![Bugs in Software Testing](https://i.ytimg.com/vi/AOlL6hCE2ds/0.jpg)](https://www.youtube.com/watch?v=AOlL6hCE2ds)
 
-[click this if you prefer HTML way and it will look better](https://htmlpreview.github.io/?https://raw.githubusercontent.com/gauravkhuraana/Testing/main/Bugs/Bugs.html)
+<hr>
 
 # Bugs
 	
