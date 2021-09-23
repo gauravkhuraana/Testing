@@ -6,6 +6,9 @@
 
 [click this if you prefer HTML way and it will look better](https://htmlpreview.github.io/?https://raw.githubusercontent.com/gauravkhuraana/Testing/main/Automation/Learn%20Automation.html)
 
+### A best resouces to learn automation - bit.ly/learn_automation
+[![Best resources to learn Autotmation](https://i.ytimg.com/vi/eGlU5dx3ggw/0.jpg)](https://www.youtube.com/watch?v=eGlU5dx3ggw)
+
 ## via Videos
 
 		Mukesh Otwani(Learn Automation)
