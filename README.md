@@ -43,3 +43,7 @@ All are mostly videos links. Click on them to watch the video. Shortcuts are lis
 <hr>
 
 ## Assumptions
+[![Assumptions in Testing](https://i.ytimg.com/vi/FbK39pKNz4A/0.jpg)](https://www.youtube.com/watch?v=FbK39pKNz4A)
+
+[If you prefer Reading about Assumptions In Testing](https://udzial.com/assumptions-in-testing/)
+
