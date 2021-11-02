@@ -8,7 +8,7 @@
 
 ### What are must have skills for Testers - bit.ly/
 
-[![Skills Required in Software Testing apart from Automation](https://i.ytimg.com/vi/AOlL6hCE2ds/0.jpg)](https://www.youtube.com/watch?v=AOlL6hCE2ds)
+[![Skills Required in Software Testing apart from Automation](https://i.ytimg.com/vi/feiM8ScA5zw/0.jpg)](https://www.youtube.com/watch?v=AOlL6hCE2ds)
 
 ## Critical Thinking
 		solve logical puzzles
