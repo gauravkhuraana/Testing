@@ -1,6 +1,6 @@
 # Test Data Management in Tesing
 
-#### Tester's Tips for Test Data management
+#### Tester's Tips for Test Data management ( https://bit.ly/testdataintesting ) <-- Easy way to remember
 
 [click this if you prefer HTML way](https://htmlpreview.github.io/?https://raw.githubusercontent.com/gauravkhuraana/Testing/main/Test%20Data/Test%20Data.html)
 
