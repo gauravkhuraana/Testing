@@ -2,9 +2,9 @@
 
 #### Tester's Tips for Test Data management
 
-[click this if you prefer HTML way](https://htmlpreview.github.io/?https://raw.githubusercontent.com/gauravkhuraana/Testing/main/Test Data/Test%20Data.html)
+[click this if you prefer HTML way](https://htmlpreview.github.io/?https://raw.githubusercontent.com/gauravkhuraana/Testing/main/Test%20Data/Test%20Data.html)
 
-![Test Data Mindmap](./Test%20Data%20Mindmap.jpg "Test Data Mindmap")
+![Test Data Mindmap](./Test%20Data%20Mindmap.png "Test Data Mindmap")
 
 <hr>
 
@@ -13,10 +13,10 @@
 - [not dummy but masked from production](#not-dummy-but-masked-from-production)
 - [do Change it time to time](#do-change-it-time-to-time)
 - [dont use](#dont-use)
-- [Smelling bad, what to do](#smelling-bad--what-to-do)
+- [Smelling bad what to do](#smelling-bad-what-to-do)
 
 
-#Test Data
+# Test Data
 
 ## not dummy but masked from production
 
@@ -31,7 +31,7 @@
 * lorem lpsum
 * 12345
 
-## Smelling bad, what to do 
+## Smelling bad what to do 
 
 * identify test data at
 
