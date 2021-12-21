@@ -1,3 +1,20 @@
+# Tester Advise to make Testing effective
+
+[click this if you prefer HTML way](https://htmlpreview.github.io/?https://github.com/gauravkhuraana/Testing/blob/main/Tester%20Advice/Advice.html)
+
+![Tester's Advice](./Tester%20Advice.jpg "Testers's Advice")
+
+<hr>
+
+## Table of Contents
+
+- [not dummy but masked from production](#not-dummy-but-masked-from-production)
+- [do Change it time to time](#do-change-it-time-to-time)
+- [dont use](#dont-use)
+- [Smelling bad, what to do](#smelling-bad--what-to-do)
+
+
+
 ## Advice
 * Research till you find perfect solution
 * get basics in place first
