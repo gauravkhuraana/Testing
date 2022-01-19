@@ -1,6 +1,6 @@
 # Tester's Advise on Automation Basics
 
-[click this if you prefer HTML way](https://htmlpreview.github.io/?https://github.com/gauravkhuraana/Testing/blob/main/Automation/AutomationBasics.html)
+[click this if you prefer HTML way](https://htmlpreview.github.io/?https://github.com/gauravkhuraana/Testing/blob/main/Automation/Automation%20Must%20know/AutomationBasics.html)
 
 ![Automation Basics](./AutomationBasics.png "Automation Basics")
 
@@ -8,46 +8,37 @@
 
 ## Table of Contents
 
-- [Tester's Advise to make Testing effective](#tester-s-advise-to-make-testing-effective)
-  * [get basics in place first](#get-basics-in-place-first)
-  * [speak up and show your presence](#speak-up-and-show-your-presence)
-  * [theory and hands on both important](#theory-and-hands-on-both-important)
-  * [ask for help and offer too](#ask-for-help-and-offer-too)
-  * [put yourself in shoes of clients](#put-yourself-in-shoes-of-clients)
-  * [Avoid reinventing the wheel](#avoid-reinventing-the-wheel)
-  * [be self reliant as much as possible](#be-self-reliant-as-much-as-possible)
-  * [Be data driven as a tester](#be-data-driven-as-a-tester)
-  * [understand the context](#understand-the-context)
-  * [Take notes](#take-notes)
-  * [Treats your test as code](#treats-your-test-as-code)
-  * [to make testing easy](#to-make-testing-easy)
-  * [test your product](#test-your-product)
-  * [When learning any tool or framework](#when-learning-any-tool-or-framework)
-  * [Be Strong in fundamentals](#be-strong-in-fundamentals)
-  * [get involved early](#get-involved-early)
-  * [Practise what you preach or change your speech](#practise-what-you-preach-or-change-your-speech)
-  * [during exploration](#during-exploration)
-  * [Pay attention to detail no matter how minute](#pay-attention-to-detail-no-matter-how-minute)
-  * [how to learn](#how-to-learn)
-  * [Revise what you already know](#revise-what-you-already-know)
-  * [create a repo](#create-a-repo)
-  * [follow good testers](#follow-good-testers)
-  * [try learning basics of technologies](#try-learning-basics-of-technologies)
-  * [revisit your Regression Suite](#revisit-your-regression-suite)
-  * [find your growth zone in current testing role](#find-your-growth-zone-in-current-testing-role)
-  * [Shift left](#shift-left)
-  * [instead of learning multiple tools or technology](#instead-of-learning-multiple-tools-or-technology)
-  * [never set limit to yourself](#never-set-limit-to-yourself)
-  * [stay focussed](#stay-focussed)
-  * [learning](#learning)
-  * [Focus on quality of the process](#focus-on-quality-of-the-process)
+- [is not automagic](#is-not-automagic)
+- [Test craftsmanship is a precursor](#test-craftsmanship-is-a-precursor)
+- [helps in testing but its not testing in itself](#helps-in-testing-but-its-not-testing-in-itself)
+- [Proficient manual Testing is mandatory even after automation](#proficient-manual-testing-is-mandatory-even-after-automation)
+- [important to understand](#important-to-understand)
+- [what not to automate](#what-not-to-automate)
+- [is tester's assistant and not other way round](#is-tester-s-assistant-and-not-other-way-round)
+- [is a tool](#is-a-tool)
+- [use to solve problems](#use-to-solve-problems)
+- [all green report does  not mean scripts are fine(in catching bugs)](#all-green-report-does--not-mean-scripts-are-fine-in-catching-bugs-)
+- [don't start because "clients wants it"](#don-t-start-because--clients-wants-it-)
+- [not to chase it](#not-to-chase-it)
+- [should have](#should-have)
+- [where should be done](#where-should-be-done)
+- [is good](#is-good)
+- [not limited to](#not-limited-to)
+- [in sprint automation](#in-sprint-automation)
+- [Feasability Analysis](#feasability-analysis)
+- [Use Automation](#use-automation)
+- [have DB assertions](#have-db-assertions)
+- [Priortise critical business value cases](#priortise-critical-business-value-cases)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 
 # Automation
 
-##is not automagic
+## is not automagic
 
-##Test craftsmanship is a precursor
+## Test craftsmanship is a precursor
 		revise the basics from time to time
 
 ## helps in testing but its not testing in itself
@@ -130,9 +121,7 @@
 
 		you can prevent some bugs
 		example
-			data going in wrong table
-
- for airline booking
+			data going in wrong table for airline booking
 
 ## Priortise critical business value cases
 		
