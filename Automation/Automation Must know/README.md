@@ -2,7 +2,10 @@
 
 [click this if you prefer HTML way](https://htmlpreview.github.io/?https://github.com/gauravkhuraana/Testing/blob/main/Automation/Automation%20Must%20know/AutomationBasics.html)
 
+![Automation Basics](./AutomationMustKnow.png "Automation Must know")
+
 ![Automation Basics](./AutomationBasics.png "Automation Basics")
+
 
 <hr>
 
