@@ -1,6 +1,6 @@
 # Tester's Advise to make Test Automation efficient
 
-[click this if you prefer HTML way](https://htmlpreview.github.io/?https://github.com/gauravkhuraana/Testing/blob/main/Tester%20Advice/Automation%20Must.html)
+[click this if you prefer HTML way](https://htmlpreview.github.io/?https://github.com/gauravkhuraana/Testing/blob/main/Automation/Automation%20must%20know%20Technial/Automation%20Must.html)
 
 ![Tester's Advice on Automation Must know](./Automation%20Must%20Know%20Technical.png "Automation%20Must%20Know%20Technical.png")
 
@@ -8,35 +8,6 @@
 
 # Automation Must
 
-## Table of Contents
- 
- - [should be unattended execution](#should-be-unattended-execution)
-- [create a branch for each test case](#create-a-branch-for-each-test-case)
-- [part of build deployment and automatic trigger](#part-of-build-deployment-and-automatic-trigger)
-- [use relative paths not absolute](#use-relative-paths-not-absolute)
-- [place all files in project folder(relative path)](#place-all-files-in-project-folder-relative-path-)
-- [try to execute manual first](#try-to-execute-manual-first)
-- [get the understanding of the](#get-the-understanding-of-the)
-- [do for sanity and smoke first](#do-for-sanity-and-smoke-first)
-- [Assertions are must](#assertions-are-must)
-- [Have basics strong and implemented (example OOPS)](#have-basics-strong-and-implemented--example-oops-)
-- [Embrace in sprint automation](#embrace-in-sprint-automation)
-- [Dont rely on single tool](#dont-rely-on-single-tool)
-- [Code](#code)
-- [Choose tools wisely](#choose-tools-wisely)
-- [Don't ignore timeouts](#don-t-ignore-timeouts)
-- [Software Development Skills](#software-development-skills)
-- [create a reusable framework](#create-a-reusable-framework)
-- [use Page Object Model](#use-page-object-model)
-- [store all strings/text](#store-all-strings-text)
-- [choose a build tool for managing the packages and auto-build](#choose-a-build-tool-for-managing-the-packages-and-auto-build)
-- [health check and update the scripts regularly](#health-check-and-update-the-scripts-regularly)
-- [Continous Testing plays a key role in Regression](#continous-testing-plays-a-key-role-in-regression)
-- [FOLLOW principle](#follow-principle)
-- [Result Analysis of each run](#result-analysis-of-each-run)
-- [Categorisation of problems](#categorisation-of-problems)
-- [is considered as hit on run button and provide the results](#is-considered-as-hit-on-run-button-and-provide-the-results)
-- [It can never replace the human part of testing](#it-can-never-replace-the-human-part-of-testing)
 
 ## should be unattended execution
 
