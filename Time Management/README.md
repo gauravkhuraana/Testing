@@ -1,69 +1,73 @@
+
 # Time Management
 # www.udzial.com
 
-![Time Management Techniques](.time%20Management.jpg/ "Time Management Mindmap")
+[![click this to understand better **https://bit,ly/manageyourday** ](https://i.ytimg.com/vi/1wYUnOddr8o/0.jpg)](https://www.youtube.com/watch?v=1wYUnOddr8o)
+
+
+![Time Management Techniques](./Time%20Management%20www.udzial.com.png/ "Time Management Mindmap")
 
 <hr>
 
-[click this if you prefer HTML way and it will look better](https://htmlpreview.github.io/?https://raw.githubusercontent.com/gauravkhuraana/Testing/main/Time%20Management/Time%20Management%20www.udzial.com.html.html)
+[click this if you prefer HTML way and it will look better](https://htmlpreview.github.io/?https://github.com/gauravkhuraana/Testing/blob/main/Time%20Management/Time%20Management%20www.udzial.com.html)
 
 	
-	## Plan your day ahead
+## Plan your day ahead
 	
-	## Focus & Priortise your task wisely analysing risk
-	
-	## set a time limit for the task
-	
-	## Brain workout activities
-	
-	## Remove non essential tasks
-	
-	## Divide/break to increase achievability and visibility on the progress
-	
-	## tests
+## Focus & Priortise your task wisely analysing risk
 
-	## tasks
+## set a time limit for the task
 
-	## Throw Away Todo list
+## Brain workout activities
 
-		 schedule your daily task
-		 priortise them on daily calendar
+## Remove non essential tasks
 
-	## instead
+## Divide/break to increase achievability and visibility on the progress
 
-		## start learning
+## tests
 
-			energy management skills
+## tasks
 
-		## intelligent mind
+## Throw Away Todo list
 
-			 is a master in art of focusing
-			 how to optimise energy
+	 schedule your daily task
+	 priortise them on daily calendar
 
-			 Stay connected to current momemt
+## instead
 
-				## Attentively
-				## throughly
+	## start learning
 
-	## Tip
+		energy management skills
 
-		 Identify three things you want to do today 
+	## intelligent mind
 
-		 what do you need to monitor those
+		 is a master in art of focusing
+		 how to optimise energy
 
-		 Then Priortise those and review them again
+		 Stay connected to current momemt
 
-		 Evaluate the overall accomplishment of the day
+			## Attentively
+			## throughly
 
-		 Practise the same habbit everyday
-	
-	## if you feel 
-	
-	tired
-	unproductive
-	getting worked up
+## Tip
 
-	## solution
+	 Identify three things you want to do today 
+
+	 what do you need to monitor those
+
+	 Then Priortise those and review them again
+
+	 Evaluate the overall accomplishment of the day
+
+	 Practise the same habbit everyday
+
+## if you feel 
+
+tired
+unproductive
+getting worked up
+
+## solution
 
 			 take a walk
 			 give yourself a break
