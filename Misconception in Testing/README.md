@@ -1,3 +1,11 @@
+# Tester's Tips on misconceptions in Testing
+
+[click this if you prefer HTML way](https://htmlpreview.github.io/?https://github.com/gauravkhuraana/Testing/blob/main/Misconception%20in%20Testing/misconception.html)
+
+![Misconceptions In Testing](./misconception.png "MisconceptionsInTesting")
+
+
+<hr>
 
 ## Table of Contents
 
