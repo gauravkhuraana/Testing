@@ -1,0 +1,46 @@
+# Auto-generated .gitignore for HTML
+
+# Code coverage reports
+coverage/
+
+# IntelliJ IDEA settings
+.idea/
+
+# macOS metadata
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Log files
+*.log
+
+# Environment vars (secrets!)
+.env
+
+# Local env overrides
+.env.local
+
+# Vim swap files
+*.swp
+
+# Vim swap files
+*.swo
+
+# Backup files
+*~
+
+# Generic cache
+.cache/
+
+# Temporary files
+tmp/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+
+# ── Additional patterns (auto-detected) ──
